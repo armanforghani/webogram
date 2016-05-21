@@ -14,7 +14,7 @@ ng\:form{display:block; /*rtl normalized*/ }
  */
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
 html{font-family:IRTerafik !important;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%; /*rtl normalized*/ }
-body{margin:0;direction:rtl !important;}
+body{margin:0;direction:rtl !important;font-family:IRTerafik !important;}
 article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block; /*rtl normalized*/ }
 audio,canvas,progress,video{display:inline-block;vertical-align:baseline; /*rtl normalized*/ }
 audio:not([controls]){display:none;height:0; /*rtl normalized*/ }
